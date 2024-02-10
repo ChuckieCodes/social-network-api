@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Reverse engineer developer activity for CRUD methods in Mongoose",
   "main": "index.js",
-  "license": "MIT",
+  "license": "Apache",
   "scripts": {
     "start": "node index",
     "dev": "nodemon index",
