@@ -92,7 +92,7 @@ module.exports = {
     try {
       Thought.findOneAndUpdate(
         { _id: req.params.thoughtId },
-        { $addToSet: { reactions: req.params.body } },
+        { $addToSet: { reactions: req.body } },
         { new: true, runValidators: true }
       )
         .then((data) => {
