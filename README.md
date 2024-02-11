@@ -6,6 +6,9 @@
 ## Description
 Should serve as an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.Built using node, express, mongodb with mongoose odm.
 
+## Walkthrough Video
+Uploaded to Google Drive --> [link here](https://drive.google.com/file/d/1FJA-kw3qKGRVMaSgIsJV26c0g6mUWtR4/view?usp=sharing)<br />
+
 ## Table of Contents
 
 - [Installation](#installation)
